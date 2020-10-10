@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-
+#include<iostream>
 int main()
 { int choice,x,y,z;
     printf("enter 1st number");
