@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
+
 
 int main()
 { int choice,x,y,z;
@@ -12,7 +12,7 @@ int main()
     scanf("%d",&choice);
     switch(choice)
     {
-        case 0: z=x+y;
+        case 0: z=x+y;//important
                 printf("%d",z);
                 break;
 
