@@ -8,7 +8,7 @@ int main()
     scanf("%d",&x);
     printf("enter 2nd number");
     scanf("%d",&y);
-    printf("press 0 to add, 1 to sub,2 to multiply,3to divide,4 to find remainder");
+    printf("Choose a option :/n 0) Add /n 1) Sub /n 2) Multiply /n 3) Divide /n 4) Find remainder");
     scanf("%d",&choice);
     switch(choice)
     {
